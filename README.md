@@ -1,3 +1,4 @@
+---------------------------------------------------
 # 🚀 StartlyAI – AI-Powered Startup Research Platform
 
 StartlyAI automatically finds **newly funded startups** and collects their **company details, founders, employees and public professional contacts** — so you don't have to research everything by hand.
